@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  name: nodeappHelm
+  name: nodeapp-helm
   repository: kaushaln1/helm_node_app
   tag: latest
 
