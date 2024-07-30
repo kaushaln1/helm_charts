@@ -3,6 +3,16 @@ entries:
   nodeapp:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2024-07-30T21:23:10.070715536Z"
+    description: A Helm chart for Kubernetes
+    digest: 7fdbbdb4c1efb3c299da685e36d9316a9ff0c8ed9ca83155409a5a203bacb222
+    name: nodeapp
+    type: application
+    urls:
+    - https://github.com/kaushaln1/nodeapp_helm_charts/releases/download/nodeapp-0.1.2/nodeapp-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-07-30T20:15:04.955161216Z"
     description: A Helm chart for Kubernetes
     digest: 215f5f37ed87054eab553fc2c9127b83d13ef4c6e3a5274acee07f4d66245e07
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/kaushaln1/nodeapp_helm_charts/releases/download/nodeapp-0.1.1/nodeapp-0.1.1.tgz
     version: 0.1.1
-generated: "2024-07-30T20:15:04.955175473Z"
+generated: "2024-07-30T21:23:10.070728079Z"
