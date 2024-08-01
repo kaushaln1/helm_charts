@@ -41,4 +41,15 @@ entries:
     urls:
     - https://github.com/kaushaln1/nodeapp_helm_charts/releases/download/nodeapp-0.1.1/nodeapp-0.1.1.tgz
     version: 0.1.1
-generated: "2024-07-30T21:31:30.449911204Z"
+  springboot:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-01T06:08:03.862542215Z"
+    description: A Helm chart for Kubernetes
+    digest: ae43700cb9a94a8183cf06b1f719d7818494220946a5bab6cf568789aa10d058
+    name: springboot
+    type: application
+    urls:
+    - https://github.com/kaushaln1/helm_charts/releases/download/springboot-1.0.0/springboot-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-08-01T06:08:03.862561331Z"
