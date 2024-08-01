@@ -1,0 +1,11 @@
+replicaCount: 1
+
+image:
+  name: springapp
+  repository: kimb88/hello-world-spring-boot
+  tag: latest
+
+service:
+  type: LoadBalancer
+  port: 8082
+  containerPort: 8080
